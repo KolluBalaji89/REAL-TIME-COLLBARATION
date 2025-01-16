@@ -5,3 +5,5 @@ INTERN ID: CT6WETL
 DOMAIN:MERN DEVLOPMENT 
 BATCH DURATION:DECEMBER 20th2024 to FEBRURARY5th 2025 
 MENTOR NAME:NELLA SANTOSH
+OUTPUT:![WhatsApp Image 2025-01-16 at 1 56 23 PM](https://github.com/user-attachments/assets/59f2865d-79d0-4e9f-adfb-426e408bd27d)
+![WhatsApp Image 2025-01-16 at 1 56 23 PM (1)](https://github.com/user-attachments/assets/4099cbfe-f8ec-40af-bcbc-88aa09a73e06)
